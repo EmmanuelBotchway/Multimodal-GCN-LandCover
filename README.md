@@ -61,7 +61,7 @@ obuasi_landcover/
 
 ---
 
-## Expected Results (2025)
+## Results
 | Metric | Value |
 |--------|-------|
 | Overall Accuracy | 93.80% |
